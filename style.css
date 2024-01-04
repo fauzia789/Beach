@@ -1,0 +1,185 @@
+header{
+    background-image: url('tropical-beach_74190-188.avif') ;
+    
+    border: 3px solid aquamarine;
+    box-shadow: 10px 10px 10px;
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 70vh;
+    background-position: center;
+    margin: 5px;
+
+
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    font-style: oblique;
+    font-display: 20px;
+    color:navy;
+    
+    margin-top: 40px;
+   margin-right: 900px;
+   margin-left: 70px;
+
+ font-size: 40pt;
+ display: inline-block;
+ 
+}
+h4{
+font-weight: 500;
+color:black;
+margin-top: 70px;
+font-size: 20px;
+margin-left: 70px;
+
+}
+
+
+button{
+    background-color: coral;
+    font-family:inherit;
+   margin-top: 60px;
+   margin-left: 70px;
+  box-sizing: content-box;
+  font-size: 20px;
+
+}
+.for{
+    font-size: 35pt;
+    color:brown;
+    font-weight: bolder;
+    margin-left: 40px;
+    text-shadow: 10px;
+}
+.div{
+    border: 2px solid green;
+    background-color: rgba(0, 87, 130, 0.925);
+    margin: 15px 10px;
+    height: 600px;
+    box-shadow: 10px 10px 10px;
+    width: 50%;
+    float: left;
+}
+.take{
+   padding-right: 40%;
+   padding-left: 20px;
+   font-size: 18px;
+    font-weight: 800;
+ 
+
+}
+.span{
+    border: 3px solid saddlebrown;
+    display: inline-block;
+   padding: 5px;
+background-color:burlywood;
+}
+/* .take2{
+    border: 1px solid darkblue;
+    height: 250px;
+    width: 150px;
+background-image: url('seaside.jpg');
+
+background-size: cover;
+margin-bottom: 800px;
+margin-left: 450px;
+
+
+} */
+/* .h3{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} */
+.happy{
+    border: 2px solid green;
+    background-color: rgba(0, 87, 130, 0.925);
+    margin: 15px 8px;
+    height: 600px;
+    box-shadow: 10px 10px 10px;
+    width: 47%;
+    float: right;
+   
+}
+.ol{
+    padding: 20px 40px;
+    color: darksalmon;
+    font-size: 19px;
+font-weight: 500;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.tree{
+    color:cadetblue;
+    margin-right: 90px;
+  
+}
+.tre{
+    color:cadetblue;
+    margin-right: 15px;
+    font-size: larger;
+  
+}
+.two{
+    color: red;
+    text-decoration: underline;
+    font-weight: bold;
+    margin-left: 90px;
+}
+
+.forget{
+    color: red;
+    text-align: right;
+    text-decoration: underline;
+    margin-left: 40px;
+}
+.submit{
+   
+    font-size: 40px;
+ font-weight: bolder;
+  color: navy;
+ 
+}
+#google{
+  color: brown;
+  font-weight: bold;
+  font-size: larger;
+}
+#facebook{
+    color: navy;
+    font-weight: bold;
+    font-size: larger;
+}
+.log{
+background-image: url('logg.avif');
+background-repeat: no-repeat;
+
+background-size: cover;
+padding-top: 10px;
+text-align: center;
+
+}
+.container{
+    font-size:90px;
+   text-align: center;
+}
+.mail{
+    margin-right: 320px;
+}
+.email{
+    margin-right: 240px;
+}
+.pass{
+    margin-right: 350px;
+}
+#pass{
+    margin-right: 85px;
+}
+#rem{
+    margin-right: 305px;
+    margin-top: 10px;
+}
+
+
+
+
